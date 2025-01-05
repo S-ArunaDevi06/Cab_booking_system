@@ -16,4 +16,3 @@ TICKET_NO:  LOCATION: DESTINATION: DISTANCE: VEHICLE(1-MAX(5)): PEOPLE: TIME: AD
 15 salem madurai 234 1 1 1 4.300000 0 0 3592
 16 chennai madurai 430 2 2 1 10.500000 0 0 6570
 17 pollachi virudhachalam 331 1 1 1 10.300000 0 0 5047
-19 kalavakkam/tamil+nadu arunachaleshwara+temple,tiruvannamalai 160 2 3 1 8.300000 0 1 2520
