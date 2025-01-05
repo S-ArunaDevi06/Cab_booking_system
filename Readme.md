@@ -7,6 +7,7 @@
 1) Description of the data types
 
 **INTRODUCTION:**
+This project is done as a grouo of 3.
 
 In this project we have coded the cab hailing process using C language. Through this code we wish to execute the driver details, user details and the process which takes place in the interface.
 
